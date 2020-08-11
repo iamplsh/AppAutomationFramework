@@ -23,3 +23,13 @@
   * Emulator
   * Android SDK
   * Extent Reports
+  
+## Sample Report
+
+![image](https://user-images.githubusercontent.com/29607333/89892350-248dd700-dbf4-11ea-99b0-4897cd8a58f2.png)
+
+ 
+
+
+  
+  
